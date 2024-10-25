@@ -1,2 +1,2 @@
 # demo
-great repository simple layout
+ https://rifat-com.github.io/demo/
